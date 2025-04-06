@@ -1,0 +1,28 @@
+#abc{
+background-color: #333;
+color: #fff;
+text-align: center;
+padding: 20px;
+letter-spacing: 2px;
+font-weight: 500;
+}
+.btn{
+    background-color: green;
+    size: 20px;
+    position: relative;
+    align-items: flex-end;
+    
+} 
+.box1 button{ 
+   float: right;
+}
+.box1 h2{ 
+    float: left;
+ }
+ body{
+    background-color: red;
+ }
+ h6{
+    align-items: center;
+    color: red;
+ }
